@@ -6,10 +6,6 @@ const navItems: Array<INavItem> = [
     link: "/"
   },
   {
-    name: "Blogs",
-    link: "https://medium.com/@shivambhadani_"
-  },
-  {
     name: "About",
     link: "/about"
   },
@@ -21,10 +17,7 @@ const navItems: Array<INavItem> = [
     name: "Projects",
     link: "/projects"
   },
-  {
-    name: "Student Guide",
-    link: "/student-guide"
-  },
+ 
   {
     name: "Contact",
     link: "/contact"
