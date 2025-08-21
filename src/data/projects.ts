@@ -1,5 +1,5 @@
 import nexchat from "@/assets/projectImages/nexchat.png";
-import chatApp from "@/assets/projectImages/chatApp.png"; // ✅ make sure you have this image or add one
+import chatapp from "@/assets/projectImages/chatapp.png";
 
 import { IProject } from "./types";
 
@@ -15,7 +15,7 @@ const projects: Array<IProject> = [
     title: "Multi-Client Private Chat",
     description:
       "Built a C++ multi-threaded socket programming project where multiple clients can connect to a server. Each client communicates privately with the server without seeing other clients' messages.",
-    thumbnail: chatApp, // replace with the actual image for your project
+    thumbnail: chatapp,
     githubLink: "https://github.com/bhaveshchhimwal/multi-client-private-chat",
   },
 ];
