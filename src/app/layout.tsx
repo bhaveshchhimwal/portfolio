@@ -13,8 +13,13 @@ const inter = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "Shivam Bhadani",
-  description: "Shivam Bhadani, Software Developer, IIT Kanpur Undergraduate",
+  title: "Bhavesh Chhimwal",
+  description: "Bhavesh Chhimwal, Software Developer, UIET PU Undergraduate",
+  icons: {
+    icon: "/icon.png",       // ✅ favicon in src/app/icon.png
+    shortcut: "/icon.png",
+    apple: "/icon.png",
+  },
 };
 
 export default function RootLayout({

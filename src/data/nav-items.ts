@@ -17,7 +17,10 @@ const navItems: Array<INavItem> = [
     name: "Projects",
     link: "/projects"
   },
- 
+  {
+    name: "Coding Profiles",   // ✅ new section
+    link: "/coding-profiles"
+  },
   {
     name: "Contact",
     link: "/contact"

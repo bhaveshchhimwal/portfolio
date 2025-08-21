@@ -1,9 +1,6 @@
 import { StaticImageData } from "next/image";
 
-export interface IStudentGuideBlogMetaData {
-  title: string;
-  slug: string;
-}
+
 
 export interface INavItem {
   name: string;
@@ -26,8 +23,4 @@ export interface IExperience {
   ending_date: string;
 }
 
-export interface IRecentBlog {
-  title: string;
-  thumbnail: string | StaticImageData;
-  link: string
-}
+
