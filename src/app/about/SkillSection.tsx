@@ -6,7 +6,7 @@ const SkillSection = () => {
   const SKILLS = [
     {
       category: "Programming Language",
-      value: "C,  C++ ,JavaScript",
+      value: "C, C++ ,JavaScript",
     },
     {
       category: "Frameworks/ Libraries",

@@ -1,7 +1,5 @@
 import { StaticImageData } from "next/image";
 
-
-
 export interface INavItem {
   name: string;
   link: string;
