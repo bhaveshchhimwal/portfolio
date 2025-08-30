@@ -27,7 +27,7 @@ const NavbarDesk = ({ navItems }: { navItems: INavItem[] }) => {
           <GithubIcon className="w-6" />
         </motion.a>
         <motion.a
-          href="https://www.linkedin.com/in/bhaveshchhimwal/"
+          href="https://www.linkedin.com/in/bhavesh-chhimwal/"
           target="_blank"
           whileHover={{ y: -6 }}
           whileTap={{ scale: 1 }}
