@@ -1,5 +1,5 @@
 import nexchat from "@/assets/projectImages/nexchat.png";
-import chatapp from "@/assets/projectImages/chatapp.png";
+import popin from "@/assets/projectImages/popin.png";
 
 import { IProject } from "./types";
 
@@ -12,11 +12,11 @@ const projects: Array<IProject> = [
     githubLink: "https://github.com/bhaveshchhimwal/NexChat",
   },
   {
-    title: "Multi-Client Private Chat",
+    title: "PopIn",
     description:
-      "Built a C++ multi-threaded socket programming project where multiple clients can connect to a server. Each client communicates privately with the server without seeing other clients' messages.",
-    thumbnail: chatapp,
-    githubLink: "https://github.com/bhaveshchhimwal/multi-client-private-chat",
+      "Event ticketing platform with secure QR code entry and fraud prevention.Techstack involved are React, Node.js, Express.js, PostgreSQL.",
+    thumbnail: popin,
+    githubLink: "https://github.com/bhaveshchhimwal/PopIn",
   },
 ];
 

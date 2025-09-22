@@ -6,7 +6,6 @@ import { GithubIcon, InstagramIcon, LinkedInIcon, TwitterIcon } from "@/componen
 const Footer = () => {
   return (
     <div className="mt-auto py-10">
-      <p className="text-center text-sm md:text-base">Designed and Developed by Bhavesh Chhimwal</p>
       <div className="flex justify-center items-center flex-wrap gap-8 mt-4">
         <motion.a
           href="https://github.com/bhaveshchhimwal"
