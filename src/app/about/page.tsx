@@ -21,7 +21,8 @@ const About = () => {
 
   const ACHIEVEMENTS = [
     "Achieved Highest Rating of 1460 (2 Star) on CodeChef",
-"Achieved a Global Rank of 314 out of 35792 participants in CodeChef Starters 172 (Div-4)"
+    "Achieved a Global Rank of 314 out of 35792 participants in CodeChef Starters 172 (Div-4)",
+    "Achieved a Global Rank of 5533 out of 13,779 participants in the Meta Hacker Cup 2025."
 
   ];
 

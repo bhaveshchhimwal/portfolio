@@ -11,15 +11,15 @@ const SkillSection = () => {
     {
       category: "Frameworks/ Libraries",
       value:
-        "React.js, Node.js, Express.js",
-    },
-    {
-      category: "Database",
-      value: "PostgreSQL, MongoDB",
+        "React.js, Node.js, Express.js, MongoDB",
     },
     {
       category: "Subjects",
       value: "OOPS, Data Structures, Algorithms, OS, DBMS"
+    },
+     {
+      category: "Tools",
+      value: "Git, GitHub, Postman"
     },
   ];
   return (

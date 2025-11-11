@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Bhavesh Chhimwal",
   description: "Bhavesh Chhimwal, Software Developer, UIET PU Undergraduate",
   icons: {
-    icon: "/icon.png",       // ✅ favicon in src/app/icon.png
+    icon: "/icon.png",       
     shortcut: "/icon.png",
     apple: "/icon.png",
   },

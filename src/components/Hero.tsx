@@ -35,7 +35,7 @@ const Hero = () => {
   return (
     <div className="flex flex-col items-center justify-center h-[20rem] md:h-[26rem]  ">
       <p className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base  ">
-        Transforming Ideas into Functional Software
+        Building Scalable Solutions for Real-World Problems
       </p>
       <TypewriterEffectSmooth
         className="text-base sm:text-2xl md:text-3xl lg:text-5xl"
