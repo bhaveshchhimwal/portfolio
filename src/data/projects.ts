@@ -15,10 +15,10 @@ const projects: Array<IProject> = [
   {
     title: "PopIn",
     description:
-      "Event ticketing platform for buying and selling event tickets with secure payments and QR-based validation. Techstack involved are React, Node.js, Express.js, MongoDB.",
+      "Event ticketing platform for buying and selling event tickets with secure payments. Techstack involved are React, Node.js, Express.js, MongoDB.",
     thumbnail: popin,
     githubLink: "https://github.com/bhaveshchhimwal/PopIn",
-    demoLink: ""
+    demoLink: "https://popin-0tgd.onrender.com/"
   },
   {
     title: "OpenPages",
