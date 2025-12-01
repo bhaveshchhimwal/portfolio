@@ -6,20 +6,21 @@ const SkillSection = () => {
   const SKILLS = [
     {
       category: "Programming Language",
-      value: "C, C++, JavaScript, Python, SQL",
+      value: 
+        "C, C++, JavaScript, Python",
     },
     {
       category: "Frameworks/ Libraries",
       value:
-        "React.js, Node.js, Express.js, MongoDB",
+        "React.js, Next.js, Node.js, Express.js, MongoDB, Firebase",
     },
     {
       category: "Subjects",
-      value: "OOPS, Data Structures, Algorithms, OS, DBMS"
+      value: "OOPS, Data Structures, Algorithms, OS, DBMS",
     },
-     {
+    {
       category: "Tools",
-      value: "Git, GitHub, Postman"
+      value: "Git, GitHub, Postman",
     },
   ];
   return (
