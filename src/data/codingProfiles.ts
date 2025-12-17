@@ -18,7 +18,7 @@ export const codingProfiles: Array<ICodingProfile> = [
   },
   {
     platform: "CodeChef",
-    description: "(2 Star) highest rating 1545",
+    description: "(3 Star) highest rating 1617",
     thumbnail: codechefLogo,
     profileLink: "https://www.codechef.com/users/conficker_404",
   },
