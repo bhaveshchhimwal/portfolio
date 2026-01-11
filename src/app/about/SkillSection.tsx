@@ -5,14 +5,14 @@ import { BackgroundGradient } from "@/components/ui/background-gradient";
 const SkillSection = () => {
   const SKILLS = [
     {
-      category: "Programming Language",
+      category: "Languages",
       value: 
-        "C, C++, JavaScript, Python",
+        "C, C++, JavaScript, Python, SQL",
     },
     {
       category: "Frameworks/ Libraries",
       value:
-        "React.js, Next.js, Node.js, Express.js, MongoDB, Firebase",
+        "React.js, Node.js, Express.js, MongoDB, Firebase, PostgreSQL",
     },
     {
       category: "Subjects",
