@@ -6,7 +6,7 @@ const projects: Array<IProject> = [
    {
     title: "PopIn",
     description:
-      "Event ticketing platform for buying and selling event tickets with secure payments. Techstack involved are React, Node.js, Express.js, PostgreSQL.",
+      "Event booking platform with secure payments, role-based dashboards, and concurrency-safe ticket booking. Techstack involved are React, Node.js, Express.js, PostgreSQL.",
     thumbnail: popin,
     githubLink: "https://github.com/bhaveshchhimwal/PopIn",
     demoLink: "https://popin-0tgd.onrender.com/"
