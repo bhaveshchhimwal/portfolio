@@ -3,7 +3,7 @@ import popin from "@/assets/projectImages/popin.png";
 import { IProject } from "./types";
 
 const projects: Array<IProject> = [
-   {
+  {
     title: "PopIn",
     description:
       "Event booking platform with secure payments, role-based dashboards, concurrency-safe ticket booking, and email-delivered QR tickets. Techstack involved are React, Node.js, Express.js, PostgreSQL.",
@@ -19,7 +19,7 @@ const projects: Array<IProject> = [
     githubLink: "https://github.com/bhaveshchhimwal/NexChat",
     demoLink: "https://nexchat44.onrender.com/"
   },
- 
+
 ];
 
 export default projects;

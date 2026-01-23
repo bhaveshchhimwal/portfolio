@@ -5,9 +5,10 @@ const experiences: Array<IExperience> = [
     company: "Avayo Technologies",
     role: "Software Developer",
     work: [
-      "Developed and maintained RESTful APIs using Node.js and Express.js, implementing authentication, CRUD operations, and core backend business logic.",
-      "Worked with PostgreSQL and MongoDB to design and manage schemas, write efficient queries, and handle structured and unstructured data.",
-      "Integrated backend APIs with frontend applications and third-party services: Stripe (test mode) and cloud storage."
+      "Implemented RESTful APIs in Node.js to enable efficient and seamless integration between frontend and backend.",
+      "Built frontend using ReactJS following clean architecture principles, ensuring modularity and maintainability.",
+      "Utilized MongoDB and PostgreSQL for efficient storage, retrieval, and management of persistent application data.",
+      "Integrated third-party services such as Stripe for payments and Cloudinary for cloud-based media storage."
     ],
     joining_date: "June 2025",
     ending_date: "July 2025"
